@@ -1,0 +1,4 @@
+# DeadGraves configuration
+sounds:
+  open-grave: "BLOCK_CHEST_OPEN"
+  remove-grave: "ENTITY_WITHER_DEATH"

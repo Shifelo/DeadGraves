@@ -1,0 +1,20 @@
+# Use & for color codes (e.g., &a, &c, &e, etc.)
+messages:
+  grave-placed:
+    enabled: true
+    text: "&7Your &egrave &7has been placed at your death location."
+  items-transferred:
+    enabled: true
+    text: "&aItems transferred from grave. Armor auto-equipped where possible."
+  items-not-transferred:
+    enabled: true
+    text: "&cNo items could be transferred (inventory/armor slots may be full)."
+  grave-emptied:
+    enabled: false
+    text: "&7The grave has been emptied and removed."
+  grave-opened:
+    enabled: false
+    text: "&7You opened a grave."
+  grave-broken:
+    enabled: false
+    text: "&cA grave was broken and its items dropped."

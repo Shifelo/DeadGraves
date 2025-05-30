@@ -1,0 +1,6 @@
+main: sbs.jeflo.DeadGraves
+name: DeadGraves
+version: 1.0
+api-version: 1.21
+author: Shifelo
+description: A plugin that leaves a head in the player's inventory upon death.
